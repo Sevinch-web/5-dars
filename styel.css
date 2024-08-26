@@ -1,0 +1,54 @@
+.conetener{
+    background-color: blueviolet;
+    border-radius: 20px;
+    height: 600px;
+
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+
+    
+}
+
+.button{
+    background-color: red;
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    color: white;
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+    align-items: center;
+    align-content: space-between;
+}
+.rasm1{
+    display: flex;
+    justify-content: center;
+    justify-items: center; 
+}
+.kichik{
+    background-color: black;
+    color: white;
+    width: 150px;
+    height: 70px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    border-radius: 30px;
+    margin-left: 500px;
+}
+.conetener1{
+    width: 300px;
+    height: 150px;
+    background-color: brown;
+    border-radius: 10px;
+}
+.conetener2{
+    width: 300px;
+    height: 150px;
+    
+}
+
